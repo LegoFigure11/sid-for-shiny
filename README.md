@@ -1,0 +1,2 @@
+# usage
+``node SIDforShiny.js``
