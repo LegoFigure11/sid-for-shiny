@@ -41,7 +41,7 @@ else {
   // console.log("PID Low : " + binpidl)
   // console.log("TID     : " + bintid)
   
-  var outarray = []
+  var outarray = [];
   
 
   
