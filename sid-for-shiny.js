@@ -1,3 +1,8 @@
+//////////////////////////////////////
+// sid-for-shiny.js by LegoFigure11 //
+//  Useage: node sid-for-shiny.js   //
+//////////////////////////////////////
+
 var readline = require('readline');
 
 var rl = readline.createInterface({
